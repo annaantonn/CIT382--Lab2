@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  background-color: green;
+  color: white;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 345;
+  background-color: yellowgreen;
+  color: blueviolet;
+}
+
+.stripe > div:nth-child(odd) {
+  color: red;
+  font-weight: bold;
+}
